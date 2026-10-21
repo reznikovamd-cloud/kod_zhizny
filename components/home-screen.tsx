@@ -55,7 +55,7 @@ export function HomeScreen({ onNavigate }: HomeScreenProps) {
     <main className="flex flex-col min-h-full px-4 py-6 gap-5">
       <div className="flex flex-col items-center text-center py-8 gap-4">
         <div>
-          <h2 className="text-2xl font-bold tracking-tight text-balance text-foreground uppercase">Такмед Про</h2>
+          <h2 className="text-2xl font-bold tracking-tight text-balance text-foreground uppercase">КОД ЖИЗНИ</h2>
         </div>
       </div>
 
